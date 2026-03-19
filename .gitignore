@@ -2,8 +2,17 @@ __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
-data/raw/*.csv
+
+# Dữ liệu thô và dữ liệu processed có thể commit nếu cần cho bài tập
+# Nếu bạn không muốn commit các file lớn thì giữ bỏ qua các file cụ thể
+# data/raw/*.csv
+
+# Output biểu đồ/bảng/reports thường không cần commit
+outputs/figures/
+outputs/tables/
+outputs/reports/
 outputs/models/*.joblib
+
 .env
 *.egg-info/
 dist/
