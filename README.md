@@ -139,6 +139,7 @@ Hoặc chạy từng notebook theo thứ tự trong `notebooks/`.
 outputs/figures/   ← Tất cả hình ảnh
 outputs/tables/    ← Bảng kết quả CSV
 outputs/models/    ← Model đã lưu
+outputs/reports/   ← file báo cáo
 ```
 
 ---
