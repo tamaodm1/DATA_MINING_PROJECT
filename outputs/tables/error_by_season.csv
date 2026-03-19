@@ -1,0 +1,5 @@
+Season,total,errors,error_rate(%),top_error_pair
+Summer,4844,602,12.43,Clear→Cloudy
+Fall,4644,531,11.43,Clear→Cloudy
+Spring,4854,440,9.06,Clear→Cloudy
+Winter,4688,299,6.38,Clear→Cloudy

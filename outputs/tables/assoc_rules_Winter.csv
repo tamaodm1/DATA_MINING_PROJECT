@@ -1,0 +1,4 @@
+,antecedents,consequents,support,confidence,lift
+0,"frozenset({'Temp_bin=Cold', 'WeatherType=Foggy'})","frozenset({'Press_bin=VHighPress', 'Vis_bin=LowVis'})",0.05570314508526866,0.5148514851485149,3.9721004827755504
+1,"frozenset({'Temp_bin=Cold', 'WeatherType=Foggy', 'Humid_bin=VeryHumid'})","frozenset({'Press_bin=VHighPress', 'Vis_bin=LowVis'})",0.0540320507327106,0.508672851956434,3.924432072383225
+2,"frozenset({'Press_bin=VHighPress', 'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})","frozenset({'Wind_bin=Calm', 'WeatherType=Foggy'})",0.06405861684805896,0.5130404941660947,3.8798895180973156

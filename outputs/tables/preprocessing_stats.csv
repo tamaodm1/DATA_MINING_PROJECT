@@ -1,0 +1,6 @@
+,Column,Before_mean,After_mean,Before_missing,After_missing,Before_rows,After_rows
+0,Temperature (C),11.933,11.948,0,0,96453,95150
+1,Humidity,0.735,0.735,0,0,96453,95150
+2,Wind Speed (km/h),10.811,10.782,0,0,96453,95150
+3,Visibility (km),10.347,10.382,0,0,96453,95150
+4,Pressure (millibars),1003.236,1016.814,0,0,96453,95150

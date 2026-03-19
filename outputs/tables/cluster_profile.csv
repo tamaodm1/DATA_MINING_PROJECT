@@ -1,0 +1,5 @@
+Cluster,Temperature (C),Apparent Temperature (C),Humidity,Wind Speed (km/h),Wind Bearing (degrees),Visibility (km),Pressure (millibars),Count,Pct,DominantWeather,DominantSeason,ClusterName
+0,7.139,4.504,0.774,19.206,217.984,10.811,1011.126,3660,18.3,Cloudy,Winter,Cold & Damp
+1,23.833,23.795,0.467,11.977,187.264,11.725,1015.407,4739,23.7,Cloudy,Summer,Hot & Dry
+2,1.667,-0.316,0.88,7.901,168.021,5.952,1023.221,5154,25.8,Cloudy,Winter,Arctic Cold
+3,14.006,13.768,0.797,7.35,186.662,12.658,1016.126,6447,32.2,Cloudy,Summer,Mild

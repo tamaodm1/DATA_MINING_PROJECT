@@ -1,0 +1,7 @@
+,Condition,N_samples,N_errors,Error_rate(%),Dominant_class
+1,Temp > 30°C (very hot),488,58,11.89,Cloudy
+5,Normal conditions,2126,217,10.21,Cloudy
+0,Temp < 0°C (very cold),2105,206,9.79,Cloudy
+2,Humidity > 0.9 (very humid),4332,361,8.33,Cloudy
+3,Wind > 25 km/h (strong wind),835,35,4.19,Cloudy
+4,Visibility < 3 km (very low),1304,12,0.92,Foggy

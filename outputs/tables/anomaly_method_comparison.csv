@@ -1,0 +1,4 @@
+,Method,N_anomaly,Pct_anomaly(%)
+0,IsolationForest,201,5.0
+1,LOF,201,5.0
+2,ZScore,468,11.65

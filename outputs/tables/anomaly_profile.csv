@@ -1,0 +1,3 @@
+is_anomaly,Count,Temperature (C)_mean,Apparent Temperature (C)_mean,Humidity_mean,Wind Speed (km/h)_mean,Wind Bearing (degrees)_mean,Visibility (km)_mean,Pressure (millibars)_mean
+Normal,3817,12.506,11.552,0.733,10.555,188.686,10.492,1016.664
+Anomaly,201,0.869,-2.531,0.774,15.438,167.078,8.259,1019.758

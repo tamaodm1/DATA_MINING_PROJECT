@@ -1,0 +1,21 @@
+,antecedents,consequents,support,confidence,lift
+0,"frozenset({'Wind_bin=Calm', 'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})",frozenset({'WeatherType=Foggy'}),0.05395691014188124,0.6096663104144401,8.18768517091517
+1,frozenset({'WeatherType=Foggy'}),"frozenset({'Wind_bin=Calm', 'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})",0.05395691014188124,0.7246294989414256,8.18768517091517
+2,"frozenset({'Wind_bin=Calm', 'Vis_bin=LowVis'})","frozenset({'WeatherType=Foggy', 'Humid_bin=VeryHumid'})",0.05395691014188124,0.5919520350513087,8.029114203154956
+3,"frozenset({'WeatherType=Foggy', 'Humid_bin=VeryHumid'})","frozenset({'Wind_bin=Calm', 'Vis_bin=LowVis'})",0.05395691014188124,0.7318602993585174,8.029114203154956
+4,frozenset({'WeatherType=Foggy'}),"frozenset({'Wind_bin=Calm', 'Vis_bin=LowVis'})",0.0544613767735155,0.7314043754410727,8.024112339815298
+5,"frozenset({'Wind_bin=Calm', 'Vis_bin=LowVis'})",frozenset({'WeatherType=Foggy'}),0.0544613767735155,0.5974864522080019,8.024112339815298
+6,"frozenset({'Wind_bin=Calm', 'WeatherType=Foggy'})","frozenset({'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})",0.05395691014188124,0.9907371671169433,7.6897496901196805
+7,frozenset({'WeatherType=Foggy'}),"frozenset({'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})",0.07372569626904887,0.990119971771348,7.684959239256364
+8,"frozenset({'Humid_bin=VeryHumid', 'Vis_bin=LowVis'})",frozenset({'WeatherType=Foggy'}),0.07372569626904887,0.5722326454033771,7.684959239256364
+9,"frozenset({'Wind_bin=Calm', 'WeatherType=Foggy', 'Humid_bin=VeryHumid'})",frozenset({'Vis_bin=LowVis'}),0.05395691014188124,1.0,7.512830635609948
+10,"frozenset({'Wind_bin=Calm', 'WeatherType=Foggy'})",frozenset({'Vis_bin=LowVis'}),0.0544613767735155,1.0,7.512830635609948
+11,frozenset({'WeatherType=Foggy'}),frozenset({'Vis_bin=LowVis'}),0.0744613767735155,1.0,7.512830635609948
+12,frozenset({'Vis_bin=LowVis'}),frozenset({'WeatherType=Foggy'}),0.0744613767735155,0.5594157125937622,7.512830635609948
+13,"frozenset({'WeatherType=Foggy', 'Humid_bin=VeryHumid'})",frozenset({'Vis_bin=LowVis'}),0.07372569626904887,1.0,7.512830635609948
+14,frozenset({'Vis_bin=LowVis'}),"frozenset({'WeatherType=Foggy', 'Humid_bin=VeryHumid'})",0.07372569626904887,0.5538886695617844,7.512830635609948
+15,"frozenset({'Humid_bin=Dry', 'WeatherType=Cloudy'})",frozenset({'Temp_bin=Hot'}),0.059684708355228586,0.794487968662563,3.7514530404566955
+16,frozenset({'Humid_bin=Dry'}),frozenset({'Temp_bin=Hot'}),0.06760903836048344,0.784416534568955,3.7038972390569236
+17,frozenset({'Humid_bin=Dry'}),"frozenset({'Temp_bin=Hot', 'WeatherType=Cloudy'})",0.059684708355228586,0.6924765272527741,3.693337531844252
+18,"frozenset({'WeatherType=Foggy', 'Vis_bin=LowVis'})","frozenset({'Wind_bin=Calm', 'Humid_bin=VeryHumid'})",0.05395691014188124,0.7246294989414256,2.605074123409402
+19,frozenset({'WeatherType=Foggy'}),"frozenset({'Wind_bin=Calm', 'Humid_bin=VeryHumid'})",0.05395691014188124,0.7246294989414256,2.605074123409402
