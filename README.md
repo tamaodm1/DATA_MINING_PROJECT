@@ -56,7 +56,6 @@ DATA_MINING_PROJECT/
 │   ├── 02_association_mining.ipynb  # Luật kết hợp
 │   ├── 03_clustering.ipynb      # Phân cụm
 │   ├── 04_modeling.ipynb        # Phân lớp
-<<<<<<< HEAD
 │   ├── 04b_anomaly_mining.ipynb # Nhánh thay thế
 │   └── 05_evaluation_report.ipynb   # Chuỗi thời gian & Tổng kết
 ├── src/
